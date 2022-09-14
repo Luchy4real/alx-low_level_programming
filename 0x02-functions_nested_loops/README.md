@@ -1,1 +1,1 @@
-If we list all the natural numbers below
+Write me a program
